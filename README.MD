@@ -1,1 +1,1 @@
-Fazendo as primeira loucuras em Ruby =)
+Fazendo as primeiras loucuras em Ruby =)
