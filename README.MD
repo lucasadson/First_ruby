@@ -1,0 +1,1 @@
+Fazendo as primeira loucuras em Ruby =)
