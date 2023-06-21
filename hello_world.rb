@@ -7,4 +7,14 @@ numeros= ["Abacaxi" , "laranja"]
 
 numeros << "uva"
 
-puts numeros
+
+
+estoque = 11
+if  estoque < 10
+
+    puts "Abasteça o estoque"
+    else
+        puts "Ainda não ha necessidade"
+
+end
+
